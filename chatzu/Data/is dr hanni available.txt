@@ -1,0 +1,2 @@
+<first>Monday 11:00-12:00</first>
+<second>Sunday 1:00-2:00</second>
